@@ -1,0 +1,6 @@
+ID;titulo;descripcion;stock;precio;moneda_code
+1;Trío de Cebiches;Finos bocados de pescado macerado en lima, cilantro, ají limo y salsa variada.;100;19.50;PEN
+2;Trío de Causas;Causa con sabor de clásica y relleno de pulpo en salsa de olivo/langostinos cocidos en salsa de rocoto/pollo en salsa huancaína.;200;12.50;PEN
+3;Tamal Criollo;Pastel caliente de maíz mote elaborado artesanal mente con relleno de carne mechada de cerdo  o de pollo y envuelto en hoja de plátano y cocido al vapor.;300;8.50;PEN
+4;Papa Rellena (2 uni.);Puré de patata aderezado con ají amarillo finamente trabajado y relleno de carne de ternera o de mariscos.;400;7.40;PEN
+5;Tiradito de Ají Amarillo;Finos cortes de atún rojo  macerados en salsa de ají amarillo, mirín y leche de tigre, acompañados de choclo y camote;500;9.50;PEN
